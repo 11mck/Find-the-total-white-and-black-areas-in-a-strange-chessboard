@@ -2,18 +2,9 @@
 Overview
 An eccentric chessboard maker likes to create strange N x N chessboards.
 
-Instead of making all the rows and the columns on his chessboards the same size, he likes to make chessboards with row and columns of varying sizes:
+Instead of making all the rows and the columns on his chessboards the same size, he likes to make chessboards with row and columns of varying sizes (look at chessboard.png)
 
-3
-1
-2
-7
-1
-1
-8
-4
-5
-2
+
 For example, here are the specifications of his latest 5x5 chessboard:
 
 cs = [ 3, 1, 2, 7, 1 ] contains the 5 widths of the 5 columns.
